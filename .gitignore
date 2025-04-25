@@ -1,0 +1,81 @@
+## .NET
+bin/
+obj/
+out/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.user
+*.vspscc
+*.vssscc
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# VS Code settings
+.vscode/
+
+# Rider settings
+.idea/
+*.sln.iml
+
+# dotCover
+*.dotCover
+
+# Logs
+*.log
+
+# dotenv environment variables file
+.env
+
+# IIS Express
+.vs/
+.vscode/
+*.iisexpress/
+
+# Docker
+**/*.pid
+docker-compose.override.yml
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+
+# Build Results
+*.build.csdef
+
+# Backup & Reports
+*.bak
+*.swp
+*.tmp
+*.tmp.*
+
+# Publish Output
+publish/
+*.publish.xml
+project.lock.json
+project.fragment.lock.json
+
+# Global JetBrains IDE settings
+.idea/
+*.sln.iml
